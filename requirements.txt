@@ -1,0 +1,11 @@
+# BoneForge3D Core Dependencies
+nibabel>=5.0.0
+scikit-image>=0.22.0
+trimesh>=4.0.0
+open3d>=0.18.0
+pyvista>=0.43.0
+huggingface_hub>=0.20.0
+numpy>=1.24.0
+pandas>=2.0.0
+matplotlib>=3.8.0
+pillow>=10.0.0
